@@ -1,6 +1,6 @@
 function playWordAudio(w) {
   const word = w.toLowerCase();
-  const voiceFileUrl = `http://dict.youdao.com/dictvoice?audio=${word}&type=2`;
+  const voiceFileUrl = `https://dict.youdao.com/dictvoice?audio=${word}&type=2`;
   const audio = document.getElementById("voice-file");
   document.getElementById('audioSource').src = voiceFileUrl;
   audio.load();
