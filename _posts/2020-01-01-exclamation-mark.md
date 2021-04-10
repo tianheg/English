@@ -1,7 +1,7 @@
 ---
 word: exclamation mark
 meaning: 惊叹号，感叹号
-correct: /ˌekskləˈmeɪʃn/
+correct: /null/
 note: "!"
 category: 符号
 ---
