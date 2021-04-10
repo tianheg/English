@@ -4,6 +4,12 @@
 
 官网：<https://en.yidajiabei.xyz/>
 
+## 音标规则
+
+- 短语音标直接注 `/null/`
+- 当短语中的词汇不熟悉时，可以在音标处添加“该词汇”的音标
+- 针对缩写的翻译：meaning 部分格式：`中文(English full name)`
+
 ## Get Started
 
 1. Install Ruby: `brew install ruby`
