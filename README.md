@@ -10,6 +10,8 @@
 - 当短语中的词汇不熟悉时，可以在音标处添加“该词汇”的音标
 - 针对缩写的翻译：meaning 部分格式：`中文(English full name)`
 
+To study means to read, memorize facts or attend school in order to learn about a subject. To learn means to gain knowledge or skill by studying, practicing, being taught or experiencing something. So, studying is just one way of learning.
+
 ## Get Started
 
 1. Install Ruby: `brew install ruby`
