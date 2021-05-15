@@ -4,3 +4,6 @@ builds/
 source/
 build/
 .jekyll-cache/
+
+# Local history
+.history
